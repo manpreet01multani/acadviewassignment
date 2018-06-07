@@ -1,0 +1,9 @@
+git init: it keeps track of all your files base .
+git status: we made some changes in our respository and not tracking by git right now.
+git config--global user.name "you@example.com":configure the author name and email address to
+be used with your commits.
+git add . :add one or more files to staging.
+git commit -m:commit changes to head.
+git push origin master:Send changes to master branch of your remote repository.
+git remote add origin :if you haven't connected your local repositary to a remote server,add
+the server to be able to push to it.
